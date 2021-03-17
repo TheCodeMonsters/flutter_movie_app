@@ -1,16 +1,28 @@
-# Flutter Movie App
+# Flutter Movie App - UI
 
 A new Flutter project.
 
-## Getting Started
+## **Packages we are using:**
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
+- animations: [link](https://pub.dev/packages/animations)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+### Movie Info App Final UI
+
+## ScreenShots
+<table style="width:100%">
+  <tr>
+    <th>1. Home Screen</th>
+    <th>2. Desc Screen</th> 
+  </tr>
+  <tr>
+    <td><img src="screens/Screenshot_1.png"/></td>
+    <td><img src="screens/Screenshot_2.png"/></td>
+  </tr>
+</table>
