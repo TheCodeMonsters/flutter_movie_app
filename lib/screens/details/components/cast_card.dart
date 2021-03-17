@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_movie_app/constants.dart';
 
-import '../../../constants.dart';
 
 class CastCard extends StatelessWidget {
   final Map cast;

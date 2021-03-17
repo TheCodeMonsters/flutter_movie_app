@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_movie_app/constants.dart';
 
-import '../../../constants.dart';
 import 'cast_card.dart';
 
 class CastAndCrew extends StatelessWidget {
